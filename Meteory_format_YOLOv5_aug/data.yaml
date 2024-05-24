@@ -1,0 +1,8 @@
+names:
+- meteor
+- satelite
+
+nc: 2
+test: ../test/images
+train: Meteory_format_YOLOv5_aug/train/images
+val: Meteory_format_YOLOv5_aug/valid/images
